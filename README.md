@@ -1,2 +1,2 @@
 # pepper-rigged
- A rigged Blender model of the Pepper Robot.
+ A FK-rigged Blender model of the Pepper Robot.
